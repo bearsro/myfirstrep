@@ -1,1 +1,51 @@
-Hello world!
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife [master]> git clone htt
+Cloning into 'myfirstrep'...
+remote: Counting objects: 9, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 9 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (9/9), done.
+Checking connectivity... done
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife [master +1 ~0 -0 !]> cd
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+fatal: 'upstream' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+ro/myfirstrep.git
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+From https://github.com/bearsro/myfirstrep
+ * [new branch]      master     -> upstream/master
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+Already up-to-date.
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+# On branch master
+nothing to commit, working directory clean
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+fatal: pathspec 'first.txt' did not match any files
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master +1 ~
+
+
+    Directory: C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstr
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+-a---        24/06/2014     22:20         12 firsttxt.txt
+-a---        24/06/2014     22:15         70 README.md
+
+
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master +1 ~
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master +1 ~
+[master 7940186] Added text file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 firsttxt.txt
+C:\Users\Loghin\Documents\My Git Files\Spoon-Knife\myfirstrep [master]> gi
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 294 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/bearsro/myfirstrep.git
+   4591b8f..7940186  master -> master
